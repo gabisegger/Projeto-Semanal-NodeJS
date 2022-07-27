@@ -16,7 +16,6 @@
   },
   "homepage": "https://github.com/gabisegger/Projeto-Semanal-NodeJS#readme",
   "dependencies": {
-    "express": "^4.18.1",
     "readline-sync": "^1.4.10"
   }
 }
